@@ -1,0 +1,9 @@
+#dashboard-card {
+  background-image: url("backgroundImg.png");
+  background-size: cover;
+  background-blend-mode: hard-light;
+  background-repeat: no-repeat;
+}
+
+@media only screen and (min-width: 700px) {
+}
